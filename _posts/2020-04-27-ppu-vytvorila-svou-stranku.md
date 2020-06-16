@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "PPU má svoji webovou stránku"
 date: 2020-04-27
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Pirátská putovní univerzita má svou webovou stránku, kterou v rámci svého studia "Základy programování" vytvořila zakladatelka a první kurátorka PPU Miluš Kotišová. 
+
+
