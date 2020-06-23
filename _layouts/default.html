@@ -4,6 +4,16 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			
+			<style>
+			   #myDIV {
+  				width: 100%;
+  				padding: 50px 0;
+  				text-align: center;
+  				background-color: lightgrey;
+  				margin-top: 20px;
+				  }
+			</style>
 		</head>
 		<body>
 			<nav>
@@ -28,10 +38,21 @@
 	    		<ul>
 	        		<li><a href="mailto:ondrej.kolek@pirati.cz">email</a></li>
 	        		<li><a href="https://github.com/otazky">github.com/otazky</a></li>
-				<li><a href=" " class="label secondary" style="background-color:grey">
+				<li><a href=" " class="label secondary" style="background-color:lightgrey">
 					<i class="fa fa-pencil"></i>Navrhni úpravu</a></li>
 
 				</ul>
 			</footer>
+
+			<script>
+				function myFunction() {
+ 				    var x = document.getElementById("myDIV");
+  				    if (x.style.display === "none") {
+    				    x.style.display = "block";
+  				    } else {
+   				    x.style.display = "none";
+  				  }
+				}
+			</script>
 		</body>
 	</html>
