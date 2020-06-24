@@ -41,3 +41,17 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+button {
+    height: auto;
+    width: 100%;
+    background-color: ;
+}
+
+.myDIV {
+    width: 100%;
+  	padding: 50px 0;
+  	text-align: center;
+  	background-color: lightgrey;
+  	margin-top: 20px;
+}
