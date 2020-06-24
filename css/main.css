@@ -54,6 +54,7 @@ button {
   	text-align: center;
   	background-color: lightgrey;
   	margin-top: 20px;
+    display: none; 
 }
 
 .initiallyHidden { 
