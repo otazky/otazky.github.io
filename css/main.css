@@ -51,8 +51,7 @@ button {
 .myDIV {
     width: 100%;
   	padding: 50px 0;
-  	text-align: center;
-  	background-color: lightgrey;
+   	background-color: lightgrey;
   	margin-top: 20px;
     display: none; 
 }
