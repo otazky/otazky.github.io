@@ -69,6 +69,6 @@ button {
   float: left;
   flex: 50%;
   padding: 10px;
-  height: 500px;
+  height: flex;
 
 }
