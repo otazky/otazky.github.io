@@ -72,3 +72,24 @@ button {
   height: flex;
 
 }
+
+/* font size to be used in innovative methodologies supbage*/
+
+  p.text-1 {
+      font-size: 15px;
+  }
+  p.text-2 {
+      font-size:19px;
+ }
+  p.text-3 {
+      font-size:27px;
+  }
+  p.text-4 {
+      font-size: 36px;
+  }
+  p.text-5 {
+      font-size: 44px;
+  }
+  p.text-6 {
+      font-size: 55px;
+  }
