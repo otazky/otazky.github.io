@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nové kolegium kurátorů PPU"
-date: 2020-06-25
+date: 2020-07-30
 ---
 
-<p>Zakladatelka a kurátorka PPU Miluš Kotišová se rozhodla ukončit své členství ve straně, a proto oslovila 5 osobností či spolupracovníků Pirátů s nabídkou převzít projekt PPU a dále ho rozvíjet. Vzniklo nově pětičlenné kurátorské kolegium. </p>
+<p>Zakladatelka a kurátorka PPU Miluš Kotišová se rozhodla pozastavit své členství ve straně, a proto oslovila 5 osobností či spolupracovníků Pirátů s nabídkou převzít projekt PPU a dále ho rozvíjet. Vzniklo nově pětičlenné kurátorské kolegium. </p>
 
 ## Novými kurátory Pirátské putovní univerzity jsou:
 
